@@ -1,2 +1,2 @@
-# single-user-mall
-单用户
+# mall-skeleton
+单用户商城
